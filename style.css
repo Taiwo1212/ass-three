@@ -19,3 +19,12 @@
     justify-content: space-around;
     gap: 10px;
 }
+
+.custom-class {
+  display: none;
+}
+@include media-breakpoint-up(sm) {
+  .custom-class {
+    display: block;
+  }
+}
