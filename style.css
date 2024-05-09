@@ -1,0 +1,21 @@
+
+.navbar-nav {
+    padding-left: 250px;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+.btn {
+    background-color: #017C6D;
+    border: 1px solid white;
+    color: white;
+}
+#btn-group {
+    border: 0px;
+} 
+.c-item {
+    padding-left: 70px;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
