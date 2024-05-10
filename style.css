@@ -10,10 +10,7 @@
     border: 1px solid white;
     color: white;
 }
-#btn-group {
-    border: 0px;
-    background-color: transparent;
-} 
+
 .c-item {
     padding-left: 70px;
     display: flex;
@@ -23,9 +20,4 @@
 
 .custom-class {
   display: none;
-}
-@include media-breakpoint-up(sm) {
-  .custom-class {
-    display: block;
-  }
 }
