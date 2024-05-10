@@ -12,6 +12,7 @@
 }
 #btn-group {
     border: 0px;
+    background-color: transparent;
 } 
 .c-item {
     padding-left: 70px;
